@@ -47,3 +47,21 @@ The layout adjusts well for different screen sizes using Flexbox and container-b
 
 * Real-world application architecture using templates and modular JS
 
+📌 Here are some of the screenshots of this project:-
+-----------------------------------------------------
+![image](https://github.com/user-attachments/assets/6cc77b97-89d7-425e-8ace-c91058ad015e)
+
+![image](https://github.com/user-attachments/assets/3a9b246b-88ff-4ed5-b532-5f5d0a7eb45e)
+
+![image](https://github.com/user-attachments/assets/b4663580-d356-46ff-97e8-1b73eb64a5fc)
+
+![image](https://github.com/user-attachments/assets/d37d44fb-7a35-4414-aabf-f9e22081a48c)
+
+![image](https://github.com/user-attachments/assets/bd3a7889-c481-46aa-9ec5-250eed90113c)
+
+
+
+
+
+
+
